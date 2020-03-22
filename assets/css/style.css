@@ -1,0 +1,52 @@
+/* GLOBAL */
+.btn-block {
+    width: 100%;
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 100px;
+    /* bottom = footer height */
+    padding-bottom: 200px;
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+/* Header */
+.img-logo{
+    width: auto;
+    height: 60px;
+    padding: 4px;
+    margin: 2px 0 2px 0;
+}
+
+/* Dashboard */
+.img-dashboard{
+    width: auto;
+    height: 400px;
+}
+
+/* Home */
+.m-10{
+    margin-top: 10px;
+}
+
+.img-home-besar{
+    width: auto;
+    height: 400px;
+}
+
+/* FOOTER */
+.logo-footer{
+    height: 30px;
+    width: auto;
+}
+

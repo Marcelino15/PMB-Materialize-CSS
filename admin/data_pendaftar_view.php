@@ -121,8 +121,8 @@
                         </table>
                     </div>
                     <div class="card-action grey lighten-4">
-                        <a class="waves-effect waves-light btn green">TERIMA</a>
-                        <a class="waves-effect waves-light btn red">TOLAK</a>
+                        <a href="data_pendaftar_update.php?id_pendaftar=<?= $id_pendaftar ?>&status_pendaftaran=2" class="waves-effect waves-light btn green">TERIMA</a>
+                        <a href="data_pendaftar_update.php?id_pendaftar=<?= $id_pendaftar ?>&status_pendaftaran=3" class="waves-effect waves-light btn red">TOLAK</a>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 <?php include_once 'include/menu-navigasi.php'; ?>
     <div class="container">
         <div class="row">
-            <div class="col s7">
+            <div class="col s12 l7 xl7">
                 <div class="card horizontal">
                     <div class="card-stacked">
                         <div class="card-content">
@@ -41,7 +41,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col s5">
+            <div class="col s12 l5 xl5">
                 <div class="card">
                     <div class="card-image">
                         <img src="assets/image/lab-jaringan.jpg" alt="lab-jaringan">
@@ -54,8 +54,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col s7">
+        <div class="row mb-130">
+            <div class="col s12 l7 xl">
                 <div class="card horizontal">
                     <div class="card-stacked">
                         <div class="card-content">

@@ -50,3 +50,8 @@ footer {
     width: auto;
 }
 
+@media only screen and (max-width: 900px) {
+    .mb-130{
+        margin-bottom: 130px;
+    }
+  }

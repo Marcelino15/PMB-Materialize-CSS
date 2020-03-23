@@ -50,10 +50,10 @@ if ($conn->query($sql) === TRUE) {
                         <div class="card blue-grey lighten-5">
                             <div class="card-content black-text">
                                 <span class="card-title ">PENDAFTARAN ANDA BERHASIL</span>
-                                <h2><?= $id_pendaftar ?></h2>
+                                <h3><?= $id_pendaftar ?></h3>
                                 <span class="card-title ">"Silahkan catat nomor pendaftaran, Pendaftaran
                                     sedang dalam review panitia"</span>
-                                <button class="waves-effect waves-light btn green">KEMBALI</button>
+                                <a href="index.php" class="waves-effect waves-light btn green">KEMBALI</a>
                             </div>
                         </div>
                     </div>
